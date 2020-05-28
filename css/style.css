@@ -1,0 +1,37 @@
+h1 {
+  text-align: center;
+  color: gold;
+  font-family: fantasy;
+  border-style: groove;
+  border-color: black;
+  border-radius: 25px;
+  border-width: 5px;
+  border-spacing: 20px;
+  padding: 20px;
+  font-size: 40px;
+  line-height: 0.3;
+  margin: 10px;
+}
+
+html {
+  background-color: rgb(130, 138, 97);
+}
+
+.title {
+  font-style: italic;
+  color: gold;
+}
+
+h {
+  text-align: center;
+}
+
+.openparagraph {
+  text-align: center;
+  font-size: large;
+  float: initial;
+  background-color: gray;
+  margin: 15px;
+  overflow: hidden;
+  border-style: groove;
+}
