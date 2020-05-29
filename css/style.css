@@ -72,7 +72,7 @@ footer {
 }
 .title {
   font-style: italic;
-  color: gold;
+  color: rgb(235, 82, 12);
 }
 
 h2 {
@@ -130,4 +130,8 @@ background-image: url(../img/paper.gif);
   .panel-body {
     /* background-color: black; */
   }
-  
+
+  .sin {
+    font-style: italic;
+    font-weight: bold;
+  }
