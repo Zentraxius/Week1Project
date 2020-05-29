@@ -116,3 +116,7 @@ h2 {
 .ares {
   color: red;
 }
+
+.crossout {
+  text-decoration: black line-through;
+}
