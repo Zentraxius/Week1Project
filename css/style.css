@@ -1,4 +1,4 @@
-h1 {
+h1 { 
   text-align: center;
   color: gold;
   font-family: fantasy;
@@ -11,19 +11,26 @@ h1 {
   font-size: 40px;
   line-height: 0.3;
   margin: 15px;
+  background: rgb(130, 138, 97) !important;
+}
+
+body {
+  background: rgb(130, 138, 97) !important;
 }
 
 html {
-  background-color: rgb(130, 138, 97);
+  background: rgb(130, 138, 97) !important;
 }
 
 .title {
   font-style: italic;
   color: gold;
+  background: rgb(130, 138, 97) !important;
 }
 
 h {
   text-align: center;
+  background: rgb(130, 138, 97) !important;
 }
 
 .openparagraph {
@@ -34,6 +41,7 @@ h {
   margin: 15px;
   overflow: hidden;
   border-style: groove;
+  background: rgb(130, 138, 97) !important;
 }
 
 .openparagraph2 {
@@ -41,6 +49,7 @@ h {
     font-size: large;
     border-style: groove;
     margin: 15px;
+    background: rgb(130, 138, 97) !important;
 }
 .img {
     width: 75%;
@@ -48,8 +57,10 @@ h {
     margin-left: auto;
     margin-right: auto;
     display: block;
+    background: rgb(130, 138, 97) !important;
 }
 
 footer {
     text-align: center;
-}
+    background: rgb(130, 138, 97) !important;
+} 
