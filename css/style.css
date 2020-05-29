@@ -27,7 +27,7 @@ html {
 
 h {
   text-align: center;
-  background: rgb(130, 138, 97) !important;
+  /* background: rgb(130, 138, 97) !important; */
 }
 
 .openparagraph {
@@ -38,7 +38,7 @@ h {
   margin: 15px;
   overflow: hidden;
   border-style: groove;
-  background: rgb(130, 138, 97) !important;
+  /* background: rgb(130, 138, 97) !important; */
 }
 
 .openparagraph2 {
@@ -46,7 +46,7 @@ h {
   font-size: large;
   border-style: groove;
   margin: 15px;
-  background: rgb(130, 138, 97) !important;
+  /* background: rgb(130, 138, 97) !important; */
 }
 .img {
   width: 75%;
@@ -54,7 +54,7 @@ h {
   margin-left: auto;
   margin-right: auto;
   display: block;
-  background: rgb(130, 138, 97) !important;
+  /* background: rgb(130, 138, 97) !important; */
 }
 
 footer {
@@ -108,4 +108,6 @@ background-image: url(../img/paper.gif);
   background-image: url(../img/paper.gif)
   }
 
-  
+  .textsmall {
+    font-size: small;
+  }
