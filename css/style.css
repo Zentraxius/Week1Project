@@ -1,4 +1,4 @@
-h1 { 
+h1 {
   text-align: center;
   color: gold;
   font-family: fantasy;
@@ -22,12 +22,6 @@ html {
   background: rgb(130, 138, 97) !important;
 }
 
-.title {
-  font-style: italic;
-  color: gold;
-  background: rgb(130, 138, 97) !important;
-}
-
 h {
   text-align: center;
   background: rgb(130, 138, 97) !important;
@@ -45,22 +39,34 @@ h {
 }
 
 .openparagraph2 {
-    text-align: center;
-    font-size: large;
-    border-style: groove;
-    margin: 15px;
-    background: rgb(130, 138, 97) !important;
+  text-align: center;
+  font-size: large;
+  border-style: groove;
+  margin: 15px;
+  background: rgb(130, 138, 97) !important;
 }
 .img {
-    width: 75%;
-    height: 300px;
-    margin-left: auto;
-    margin-right: auto;
-    display: block;
-    background: rgb(130, 138, 97) !important;
+  width: 75%;
+  height: 300px;
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  background: rgb(130, 138, 97) !important;
 }
 
 footer {
-    text-align: center;
-    background: rgb(130, 138, 97) !important;
-} 
+  text-align: center;
+  background: rgb(130, 138, 97) !important;
+}
+
+.leader {
+  color: coral;
+}
+
+.nephilem {
+  color: yellow;
+}
+.title {
+  font-style: italic;
+  color: gold;
+}
