@@ -20,6 +20,7 @@ body {
 
 html {
   background: rgb(130, 138, 97) !important;
+  overflow-x: hidden;
 }
 
 h {
@@ -69,4 +70,25 @@ footer {
 .title {
   font-style: italic;
   color: gold;
+}
+
+h2 {
+  text-align: center;
+}
+.image2 {
+  width: 400px;
+  height: 500px;
+  display: block;
+  margin-left: 20%;
+}
+
+
+
+.col-md-4 {
+border-style: groove;  
+border-radius: 25px;
+width: 32.1%;
+margin-left: 20px;
+text-align: center;
+font-size: 25px;
 }
