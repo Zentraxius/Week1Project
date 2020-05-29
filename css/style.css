@@ -111,3 +111,23 @@ background-image: url(../img/paper.gif);
   .textsmall {
     font-size: small;
   }
+
+  .col-md-3 {
+    border-style: groove;  
+border-radius: 25px;
+/* width: 32.1%;
+margin-left: 20px; */
+text-align: center;
+/* font-size: 25px; */
+font-size: large;
+background-image: url(../img/paper.gif);
+  }
+
+  .panel-heading {
+    /* background-image: url(../img/paper.gif); */
+  }
+
+  .panel-body {
+    /* background-color: black; */
+  }
+  
