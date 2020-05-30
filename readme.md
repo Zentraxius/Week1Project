@@ -2,6 +2,8 @@ Vampire World
 
  A modern setting with vampires - 4/03/2020
 
+GHPages - https://zentraxius.github.io/Week1Project/
+
 By Cody Fritz
 
 During the down time between our DND-esque game sessions, my roommate and I had become bored during lockdown and needed something new to do. One night, I had a dream about four people hanging out in a room, 2 were vampires, 2 were human and they were at a school in modern setting where this was somehow normal. My roommate and I started talking about and it got more and more interesting until it turned into our next DND-esque RPG between the two of us. Built over a few months and hundreds of hours of gameplay interactions between us in the form of an interactive story/whitewolf type game, it unfolded into something that I considered impressive, if a tad unrealistic. 
