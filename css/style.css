@@ -120,3 +120,8 @@ h2 {
 .crossout {
   text-decoration: black line-through;
 }
+
+.row {
+    display: flex;
+    flex-flow: row wrap;
+}

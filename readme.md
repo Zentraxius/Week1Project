@@ -14,7 +14,7 @@ Open the HTML in browser of choice, confirmed working on Firefox and Google Chro
 Known Bugs
 *Borders between columns overlap slightly or are displaced
 *Borders of columns line up with edge of screen
-*Columns within Rows do not align to equal height when screen size changes
+<!-- *Columns within Rows do not align to equal height when screen size changes --> Fixed
 
 For support please contact clanalia55@gmail.com
 
